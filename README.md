@@ -14,9 +14,9 @@ hello-world-spring-boot/
 │   │   ├── java/com/seuprojeto/
 │   │   │   ├── controller/HelloController.java
 │   │   │   ├── HelloWorldApplication.java
-│   │   ├── resources/
-│   │   │   ├── application.properties
-│   ├── test/
+│   ├── resources/
+│   │   ├── application.properties
+├── test/
 ├── pom.xml
 └── README.md
 
