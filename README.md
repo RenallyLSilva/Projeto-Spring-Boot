@@ -4,7 +4,7 @@ Hello World Spring Boot
 
 Este é um projeto simples criado com Spring Boot para responder com a mensagem "Hello, World!" ao acessar um endpoint via requisição HTTP GET.
 
-Estrutura do Projeto
+*Estrutura do Projeto*
 
 O projeto segue a estrutura padrão do Spring Boot gerada pelo Spring Initializr:
 
