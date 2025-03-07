@@ -22,11 +22,9 @@ O projeto segue a estrutura padrão do Spring Boot gerada pelo Spring Initializr
 
 # Dependências
 
-O projeto utiliza as seguintes dependências:
+- Spring Boot Starter Web
 
-Spring Boot Starter Web
-
-Spring Boot Starter Test (para testes unitários)
+- Spring Boot Starter Test (para testes unitários)
 
 # Como Executar a Aplicação
 
@@ -44,13 +42,12 @@ Certifique-se de ter instalado:
 
 # Passos para execução
 
-Passo 1- Clone este repositório
+Passo 1 - Clone este repositório
 
-Passo 2- Navegue até o diretório do projeto
+Passo 2 - Navegue até o diretório do projeto
 
-Passo 3- Compile e execute a aplicação
+Passo 3 - Compile e execute a aplicação
 
-Passo 4- Acesse a API em seu navegador
+Passo 4 - Acesse a API em seu navegador
 
 Obrigada por explorar este projeto!🚀
-
