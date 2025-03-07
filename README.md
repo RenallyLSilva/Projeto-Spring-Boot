@@ -34,21 +34,23 @@ Spring Boot Starter Test (para testes unitários)
 
 Certifique-se de ter instalado:
 
-Java 23+
+- Java 23+
 
-Maven
+- Maven
 
-Extension Pack for Java
+- Extension Pack for Java
 
-Spring Boot Extension Pack
+- Spring Boot Extension Pack
 
 # Passos para execução
 
-1- Clone este repositório
+Passo 1- Clone este repositório
 
-2- Navegue até o diretório do projeto
+Passo 2- Navegue até o diretório do projeto
 
-3- Compile e execute a aplicação
+Passo 3- Compile e execute a aplicação
 
-4- Acesse a API em seu navegador
+Passo 4- Acesse a API em seu navegador
+
+Obrigada por explorar este projeto!🚀
 
