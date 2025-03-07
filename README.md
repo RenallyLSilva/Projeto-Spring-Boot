@@ -40,7 +40,10 @@ Maven
 # Passos para execução
 
 1-Clone este repositório
+
 2-Navegue até o diretório do projeto
+
 3-Compile e execute a aplicação
+
 4-Acesse a API em seu navegador ou via Postman
 
