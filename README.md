@@ -2,7 +2,7 @@ Hello World Spring Boot
 
 # Descrição
 
-Este é um projeto simples criado com Spring Boot para responder com a mensagem "Hello, World!" ao acessar um endpoint via requisição HTTP GET.
+Este projeto foi desenvolvido com Spring Boot para demonstrar a criação de uma aplicação web simples, que responde com a mensagem "Hello, World!" ao ser acessada.
 
 *Estrutura do Projeto*
 
