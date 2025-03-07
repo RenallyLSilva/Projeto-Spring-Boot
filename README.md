@@ -20,7 +20,7 @@ O projeto segue a estrutura padrão do Spring Boot gerada pelo Spring Initializr
   - pom.xml
   - README.md
 
-Dependências
+# Dependências
 
 O projeto utiliza as seguintes dependências:
 
