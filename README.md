@@ -8,17 +8,17 @@ Estrutura do Projeto
 
 O projeto segue a estrutura padrão do Spring Boot gerada pelo Spring Initializr:
 
-hello-world-spring-boot/
-├── src/
-│   ├── main/
-│   │   ├── java/com/seuprojeto/
-│   │   │   ├── controller/HelloController.java
-│   │   │   ├── HelloWorldApplication.java
-│   ├── resources/
-│   │   ├── application.properties
-├── test/
-├── pom.xml
-└── README.md
+- hello-world-spring-boot/
+  - src/
+    - main/
+      - java/com/seuprojeto/
+        - controller/HelloController.java
+        - HelloWorldApplication.java
+    - resources/
+      - application.properties
+  - test/
+  - pom.xml
+  - README.md
 
 Dependências
 
